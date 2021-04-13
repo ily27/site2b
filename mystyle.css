@@ -5,7 +5,7 @@ body {
 h1 {
   color: #6600ff;
   margin-left: 20px;
-  text-shadow: 2px 2px;
+  text-shadow: 2px 2px black;
 }
 
 #dogs {
