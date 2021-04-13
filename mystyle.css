@@ -1,6 +1,5 @@
 body {
-  background-color: #c690c6;
-  text-shadow: black
+  background-color: pink;
 }
 
 h1 {
@@ -15,18 +14,19 @@ h1 {
   background: #FFF;
   width: 150px;
   border: 10px;
-  border-style: dotted;
+  border-style: groove;
   border-color: #66b3ff;
   margin-right: 100px;
 }
 
 #hex {
   color: 	#8c66ff;
+  text-shadow: black;
   padding: 15px;
   background: #FF0080;
   width: 150px;
   border: 10px;
-  border-style: groove;
+  border-style: dotted;
   border-color: #66b3ff;
   margin-bottom: 100px;
 
