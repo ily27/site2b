@@ -5,6 +5,7 @@ body {
 h1 {
   color: #6600ff;
   margin-left: 20px;
+  text-shadow: #000;
 }
 
 #dogs {
@@ -16,4 +17,5 @@ h1 {
   border-color: #66b3ff;
   margin-top: 100px;
   text-decoration-color: 	#8c66ff;
+
 }
