@@ -5,12 +5,11 @@ body {
 h1 {
   color: #6600ff;
   margin-left: 20px;
-  text-shadow: black;
+  text-shadow: 2px 2px;
 }
 
 #dogs {
   color: 	#fff;
-  text-shadow: black;
   padding: 15px;
   background: #ccccff;
   width: 150px;
