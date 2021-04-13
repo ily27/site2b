@@ -8,8 +8,7 @@ h1 {
 }
 
 #dogs {
-  width: 300px;
-  border: 15px solid green;
   padding: 50px;
-  margin: 20px;
+  border: 3px solid #000;
+  background: #FFF;
 }
