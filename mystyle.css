@@ -6,3 +6,10 @@ h1 {
   color: #6600ff;
   margin-left: 20px;
 }
+
+#dogs {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
