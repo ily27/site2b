@@ -10,6 +10,7 @@ h1 {
 
 #dogs {
   color: 	#fff;
+  text-shadow: black;
   padding: 15px;
   background: #ccccff;
   width: 150px;
@@ -21,7 +22,6 @@ h1 {
 
 #hex {
   color: 	#8c66ff;
-  text-shadow: black;
   padding: 15px;
 background: #FFF;
   width: 150px;
