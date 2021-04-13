@@ -11,9 +11,9 @@ h1 {
 #dogs {
   color: 	#8c66ff;
   padding: 15px;
-  background: #FFF;
-  width: 300px;
-  border: 300px;
+  background: #FF0080;
+  width: 150px;
+  border: 150px;
   border-style: groove;
   border-color: #66b3ff;
   margin-right: 100px;
@@ -23,7 +23,7 @@ h1 {
   color: 	#8c66ff;
   text-shadow: black;
   padding: 15px;
-  background: #FF0080;
+background: #FFF;
   width: 150px;
   border: 10px;
   border-style: dotted;
