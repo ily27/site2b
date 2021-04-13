@@ -12,5 +12,5 @@ h1 {
   background: #FFF;
   width: 150px;
   border: 150px;
-  border-style: p.dotted {outline-style: dotted;}
+  border-style: dotted;
 }
